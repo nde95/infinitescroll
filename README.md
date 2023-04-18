@@ -1,1 +1,1 @@
-# infinitescroll
+Javascript web page with infinite scrolling of the Unsplash API
